@@ -62,7 +62,6 @@
     position: relative;
     background-color: inherit;
     width: 30%;
-    margin-left: 239px;
   }
   
   /* The circles on the timeline */
@@ -82,6 +81,7 @@
   /* Place the container to the left */
   .container:nth-child(odd) {
     left: 0;
+      margin-left:239px;
   }
   
   /* Place the container to the right */
