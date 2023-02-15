@@ -119,7 +119,7 @@
   
   /* Fix the circle for containers on the right side */
   .container:nth-child(even)::after {
-    left: -16px;
+    left: -15px;
   }
   
   /* The actual content */
